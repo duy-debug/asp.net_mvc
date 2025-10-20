@@ -1,0 +1,62 @@
+﻿@model IEnumerable<BTL_64132201.Models.AuthorMenu>
+
+<div class="menu-categories">
+    <h4>Tác giả</h4>
+    <ul class="category-list">
+        @foreach (var author in Model)
+        {
+            <li class="category-item">
+                <a asp-controller="Product" asp-action="Index" asp-route-idAuthor="@author.Id">
+                    <span class="category-name">@author.Title</span>
+                </a>
+                <span class="category-count">(@author.Count)</span>
+            </li>
+        }
+    </ul>
+</div>
+
+<style>
+    .menu-categories {
+        margin: 20px;
+        padding: 10px;
+        background-color: #f9f9f9;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .categories-title {
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+        color: #333;
+    }
+
+    .category-list {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .category-item {
+        margin: 5px 0;
+    }
+
+    .category-link {
+        text-decoration: none;
+        color: #007bff;
+        font-weight: 500;
+    }
+
+        .category-link:hover {
+            text-decoration: underline;
+            color: #0056b3;
+        }
+
+    .category-name {
+        margin-right: 5px;
+    }
+
+    .category-count {
+        font-size: 0.9rem;
+        color: #555;
+    }
+</style>

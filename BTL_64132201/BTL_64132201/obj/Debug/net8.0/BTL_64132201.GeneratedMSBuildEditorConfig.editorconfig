@@ -1,0 +1,217 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BTL_64132201
+build_property.RootNamespace = BTL_64132201
+build_property.ProjectDir = D:\NTU\AcademicYear_2025_2026\Semester1\Web_application_development\BTL_64132201\BTL_64132201\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\NTU\AcademicYear_2025_2026\Semester1\Web_application_development\BTL_64132201\BTL_64132201
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/AccountAdmin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudEFkbWluXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/AccountAdmin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudEFkbWluXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/AccountAdmin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudEFkbWluXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/AccountAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudEFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/AuthorAdmin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXV0aG9yQWRtaW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/AuthorAdmin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXV0aG9yQWRtaW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/AuthorAdmin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXV0aG9yQWRtaW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/AuthorAdmin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXV0aG9yQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/AuthorAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXV0aG9yQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/CategoryAdmin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlBZG1pblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/CategoryAdmin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlBZG1pblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/CategoryAdmin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlBZG1pblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/CategoryAdmin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlBZG1pblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/CategoryAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlBZG1pblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/HomeAdmin/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFdlbGNvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/ProductAdmin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEFkbWluXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/ProductAdmin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEFkbWluXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/ProductAdmin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEFkbWluXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/ProductAdmin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEFkbWluXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/ProductAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Customer/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Customer/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcU2lnbkluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Customer/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Home/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Home/PageNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdlTm90Rm91bmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Product/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Shared/Components/Cart/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FydFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Shared/Components/FeaturedProducts/FeaturedProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmVhdHVyZWRQcm9kdWN0c1xGZWF0dXJlZFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Shared/Components/MenuAuthor/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudUF1dGhvclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Shared/Components/MenuCategory/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudUNhdGVnb3J5XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Shared/Components/MenuDynamic/MenuDynamic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudUR5bmFtaWNcTWVudUR5bmFtaWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Shared/Components/RelatedProducts/RelatedProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmVsYXRlZFByb2R1Y3RzXFJlbGF0ZWRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Shared/_LayoutCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uf8htfemw1
+
+[D:/NTU/AcademicYear_2025_2026/Semester1/Web_application_development/BTL_64132201/BTL_64132201/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ie0ety089x

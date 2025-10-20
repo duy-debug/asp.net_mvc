@@ -1,0 +1,280 @@
+﻿@model BTL_64132201.Areas.Admin.Models.ProductAdminModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Trang chủ</h1>
+
+<p>
+    <a asp-action="Create">Thêm mới cuốn sách</a>
+</p>
+<form asp-action="index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Tìm kiếm: <input type="text" name="SearchString" value="@ViewData["CurrentFilter"]" />
+            <input type="submit" value="Tìm kiếm" class="btn btn-primary" /> |
+            <a asp-controller="ProductAdmin" asp-action="Index" class="btn btn-outline-dark">Quay về trang chủ</a>
+        </p>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th style="width: 50px">
+                <a asp-controller="ProductAdmin" asp-action="Index" asp-route-searchString="@ViewData["CurrentFilter"]" asp-route-sortOrder="@ViewData["IdSortParm"]">
+                Mã sách
+                @if (ViewData["SortColumn"]!.ToString() == ""){
+                        <span>&darr;</span>
+                }
+                @if (ViewData["SortColumn"]!.ToString() == "id_desc"){
+                        <span>&uarr;</span>
+                }
+                </a>
+            </th>
+            <th>
+                <a asp-controller="ProductAdmin" asp-action="Index"
+                   asp-route-searchString="@ViewData["CurrentFilter"]"
+                   asp-route-sortOrder="@ViewData["TitleSortParm"]">
+                    Tên sách
+                    @if (ViewData["SortColumn"]!.ToString() == "title")
+                    {
+                        <span>&uarr;</span>
+                    }
+                    @if (ViewData["SortColumn"]!.ToString() == "title_desc")
+                    {
+                        <span>&darr;</span>
+                    }
+                </a>
+            </th>
+            <th>
+                Mô tả
+            </th>
+            <th>
+                Ảnh
+            </th>
+            <th>
+                <a asp-controller="ProductAdmin" asp-action="Index"
+                   asp-route-searchString="@ViewData["CurrentFilter"]"
+                   asp-route-sortOrder="@ViewData["PriceSortParm"]">
+                    Đơn giá
+                    @if (ViewData["SortColumn"]!.ToString() == "price")
+                    {
+                        <span>&uarr;</span>
+                    }
+                    @if (ViewData["SortColumn"]!.ToString() == "price_desc")
+                    {
+                        <span>&darr;</span>
+                    }
+                </a>
+            </th>
+            <th>
+                Số lượng
+            </th>
+            <th style="width: 70px">
+                <a asp-controller="ProductAdmin" asp-action="Index"
+                   asp-route-searchString="@ViewData["CurrentFilter"]"
+                   asp-route-sortOrder="@ViewData["RateSortParm"]">
+                    Đánh giá
+                    @if (ViewData["SortColumn"]!.ToString() == "rate")
+                    {
+                        <span>&uarr;</span>
+                    }
+                    @if (ViewData["SortColumn"]!.ToString() == "rate_desc")
+                    {
+                        <span>&darr;</span>
+                    }
+                </a>
+            </th>
+            <th>
+                Thời gian tạo
+            </th>
+            <th>
+                Thời gian cập nhật
+            </th>
+            <th>
+                Thể loại
+            </th>
+            <th>
+                Tác giả
+            </th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.ProductAdmins) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+               <span style="line-height:1.5rem; height:4.5rem; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;  overflow: hidden;">
+                        @Html.DisplayFor(modelItem => item.Content)
+               </span>
+            </td>
+            <td>
+               <img src="~/images/sanpham/@item.Img" class="img-fluid " style="width:100px; height: 60px; object-fit:contain" />
+            </td>
+            <td>
+                    @item.Price.ToString("#,##0 đồng")
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreateAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdateAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AuthorName)
+            </td>
+            <td>
+                @Html.ActionLink("Chỉnh sửa", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Chi tiết", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Xóa", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div class="col-12">
+    <div class="pagination d-flex justify-content-center mt-5">
+        <!--Button Previous-->
+        @if (Model.CurrentPageIndex > 1)
+        {
+            <a asp-controller="ProductAdmin" asp-action="index"
+               asp-route-page="@(Model.CurrentPageIndex -1)"
+               asp-route-searchString="@ViewData["CurrentFilter"]"
+               asp-route-sortOrder="@ViewData["SortColumn"]"
+               class="btn btn-outline-dark mx-2">
+                &laquo;
+            </a>
+        }
+
+        @for (int i = 1; i <= Model.PageCount; i++)
+        {
+            @if (i != Model.CurrentPageIndex)
+            {
+                <a asp-controller="ProductAdmin" asp-action="index"
+                   asp-route-page="@i"
+                   asp-route-searchString="@ViewData["CurrentFilter"]"
+                   asp-route-sortOrder="@ViewData["SortColumn"]"
+                   class="btn btn-outline-dark mx-2">
+                    @i
+                </a>
+            }
+            else
+            {
+                //Current Page
+                <a class="btn btn btn-outline-dark active mx-2">@i</a>
+            }
+        }
+        <!-- Button Next -->
+        @if (Model.PageCount != Model.CurrentPageIndex)
+        {
+            <a asp-controller="ProductAdmin" asp-action="index"
+               asp-route-page="@(Model.CurrentPageIndex + 1)"
+               asp-route-searchString="@ViewData["CurrentFilter"]"
+               asp-route-sortOrder="@ViewData["SortColumn"]"
+               class="btn btn-outline-dark mx-2">
+                &raquo;
+            </a>
+        }
+    </div>
+</div>
+<style>
+    /* Căn chỉnh form tìm kiếm */
+    .form-actions {
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+        .form-actions input[type="text"] {
+            width: 300px;
+            padding: 5px 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        .form-actions .btn {
+            margin-left: 10px;
+        }
+
+    /* Bảng dữ liệu */
+    .table {
+        margin-top: 20px;
+        border-collapse: collapse;
+        width: 100%;
+        text-align: left;
+    }
+
+        .table th, .table td {
+            padding: 10px;
+            vertical-align: middle;
+        }
+
+        .table th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+        }
+
+        .table tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        .table img {
+            display: block;
+            margin: 0 auto;
+        }
+
+        /* Hành động trong bảng */
+        .table td:last-child {
+            white-space: nowrap;
+            text-align: center;
+        }
+
+        .table a {
+            text-decoration: none;
+            color: #007bff;
+            margin-right: 5px;
+        }
+
+            .table a:hover {
+                text-decoration: underline;
+            }
+
+    /* Phân trang */
+    .pagination {
+        margin-top: 30px;
+        display: flex;
+        justify-content: center;
+    }
+
+        .pagination .btn {
+            margin: 0 5px;
+            padding: 5px 10px;
+        }
+
+            .pagination .btn.active {
+                background-color: #007bff;
+                color: white;
+            }
+
+            .pagination .btn:hover {
+                background-color: #0056b3;
+                color: white;
+            }
+</style>

@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Confirm";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h3>THÔNG TIN NHÂN VIÊN ĐÃ NHẬP</h3>
+<hr />
+
+<table>
+    <tr>
+        <!-- Cột ảnh -->
+        <td style="width:180px; text-align:center; vertical-align:top;">
+            <img src="@Url.Content(ViewBag.Avatar)" alt="Avatar" style="width:150px; height:150px; border-radius:50%;" />
+        </td>
+        <!-- Cột thông tin -->
+        <td>
+            <p><b>Mã số nhân viên:</b> @ViewBag.EmpID</p>
+            <p><b>Họ tên:</b> @ViewBag.Name</p>
+            <p><b>Ngày sinh:</b> @ViewBag.BirthOfDate</p>
+            <p><b>Email:</b> @ViewBag.Email</p>
+            <p><b>Mật khẩu:</b> @ViewBag.Password</p>
+            <p><b>Đơn vị:</b> @ViewBag.Department</p>
+        </td>
+    </tr>
+</table>
+
+<br />
+@Html.ActionLink("Quay về trang đăng ký", "Register")
+
