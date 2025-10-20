@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\views\\nhanviens65130650\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\views\\gioithieu\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\views\\gioithieu\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\baitap6_65130650\\baitap6_65130650\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\baitap6_65130650\\baitap6_65130650\\views\\nhanviens65130650\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\views\\nhanviens65130650\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\views\\nhanviens65130650\\timkiemnc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\views\\nhanviens65130650\\timkiemnc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\baitap6_65130650\\baitap6_65130650\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\views\\nhanviens65130650\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\views\\nhanviens65130650\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\views\\nhanviens65130650\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\views\\nhanviens65130650\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\views\\nhanviens65130650\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\views\\nhanviens65130650\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\views\\nhanviens65130650\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\views\\nhanviens65130650\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\views\\nhanviens65130650\\timkiemnc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\views\\nhanviens65130650\\timkiemnc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\views\\nhanviens65130650\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\views\\nhanviens65130650\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\views\\phongbans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\views\\phongbans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\views\\nhanviens65130650\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\views\\nhanviens65130650\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\views\\nhanviens65130650\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\views\\nhanviens65130650\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\views\\nhanviens65130650\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\views\\nhanviens65130650\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\views\\phongbans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\views\\phongbans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\views\\phongbans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -61,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\controllers\\phongbanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\controllers\\phongbanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\views\\gioithieu\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|solutionrelative:baitap6_65130650\\views\\gioithieu\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{828AB89E-C0AA-461F-AAA3-41C275F1F4B6}|Baitap6_65130650\\Baitap6_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\baitap6_65130650\\controllers\\gioithieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,42 +114,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Models\\Model1.edmx",
-              "RelativeDocumentMoniker": "Baitap6_65130650\\Models\\Model1.edmx",
-              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Models\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "Baitap6_65130650\\Models\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-10-10T12:51:18.557Z",
-              "EditorCaption": " [Diagram1]"
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Baitap6_65130650\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T11:52:37.918Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\NhanViens65130650\\Index.cshtml",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\NhanViens65130650\\Index.cshtml",
               "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\NhanViens65130650\\Index.cshtml",
               "RelativeToolTip": "Baitap6_65130650\\Views\\NhanViens65130650\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-10T12:52:50.579Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "TimKiemNC.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\NhanViens65130650\\TimKiemNC.cshtml",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\NhanViens65130650\\TimKiemNC.cshtml",
               "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\NhanViens65130650\\TimKiemNC.cshtml",
               "RelativeToolTip": "Baitap6_65130650\\Views\\NhanViens65130650\\TimKiemNC.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-10T13:27:35.303Z",
               "EditorCaption": ""
@@ -158,13 +159,14 @@
               "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\NhanViens65130650\\TimKiem.cshtml",
               "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\NhanViens65130650\\TimKiem.cshtml",
               "RelativeToolTip": "Baitap6_65130650\\Views\\NhanViens65130650\\TimKiem.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-10T13:26:52.053Z"
+              "WhenOpened": "2025-10-10T13:26:52.053Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\NhanViens65130650\\Create.cshtml",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\NhanViens65130650\\Create.cshtml",
@@ -172,11 +174,12 @@
               "RelativeToolTip": "Baitap6_65130650\\Views\\NhanViens65130650\\Create.cshtml",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-10T12:55:10.318Z"
+              "WhenOpened": "2025-10-10T12:55:10.318Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\NhanViens65130650\\Delete.cshtml",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\NhanViens65130650\\Delete.cshtml",
@@ -188,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\NhanViens65130650\\Details.cshtml",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\NhanViens65130650\\Details.cshtml",
@@ -196,7 +199,49 @@
               "RelativeToolTip": "Baitap6_65130650\\Views\\NhanViens65130650\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-10T12:55:03.512Z"
+              "WhenOpened": "2025-10-10T12:55:03.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GioiThieu.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\GioiThieu\\GioiThieu.cshtml",
+              "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\GioiThieu\\GioiThieu.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\GioiThieu\\GioiThieu.cshtml",
+              "RelativeToolTip": "Baitap6_65130650\\Views\\GioiThieu\\GioiThieu.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T06:06:53.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Baitap6_65130650\\Models\\Model1.edmx",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Baitap6_65130650\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-10-10T12:51:18.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\NhanViens65130650\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\NhanViens65130650\\Edit.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\NhanViens65130650\\Edit.cshtml",
+              "RelativeToolTip": "Baitap6_65130650\\Views\\NhanViens65130650\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T12:55:00.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Bookmark",
@@ -212,19 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\NhanViens65130650\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\NhanViens65130650\\Edit.cshtml",
-              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\NhanViens65130650\\Edit.cshtml",
-              "RelativeToolTip": "Baitap6_65130650\\Views\\NhanViens65130650\\Edit.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-10T12:55:00.552Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\PhongBans\\Edit.cshtml",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\PhongBans\\Edit.cshtml",
@@ -236,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\PhongBans\\Index.cshtml",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\PhongBans\\Index.cshtml",
@@ -248,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "_LayoutAdmin.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\Shared\\_LayoutAdmin.cshtml",
@@ -260,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\PhongBans\\Create.cshtml",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\PhongBans\\Create.cshtml",
@@ -272,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\PhongBans\\Delete.cshtml",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\PhongBans\\Delete.cshtml",
@@ -284,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\PhongBans\\Details.cshtml",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\PhongBans\\Details.cshtml",
@@ -296,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "PhongBansController.cs",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Controllers\\PhongBansController.cs",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Controllers\\PhongBansController.cs",
@@ -308,19 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GioiThieu.cshtml",
-              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\GioiThieu\\GioiThieu.cshtml",
-              "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\GioiThieu\\GioiThieu.cshtml",
-              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\GioiThieu\\GioiThieu.cshtml",
-              "RelativeToolTip": "Baitap6_65130650\\Views\\GioiThieu\\GioiThieu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T06:06:53.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "GioiThieuController.cs",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Controllers\\GioiThieuController.cs",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Controllers\\GioiThieuController.cs",
@@ -332,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "NhanViens65130650Controller.cs",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Controllers\\NhanViens65130650Controller.cs",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Controllers\\NhanViens65130650Controller.cs",
@@ -344,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "NhanVien.cs",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Models\\NhanVien.cs",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Models\\NhanVien.cs",
@@ -356,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Controllers\\HomeController.cs",
@@ -368,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "StyleAdmin.css",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Content\\StyleAdmin.css",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Content\\StyleAdmin.css",
@@ -380,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\Shared\\Error.cshtml",
@@ -392,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\Baitap6_65130650\\Baitap6_65130650\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Baitap6_65130650\\Views\\Shared\\_Layout.cshtml",
