@@ -1,0 +1,221 @@
+﻿@model BTL_64132201.Models.ProductPagination
+@{
+    ViewData["Title"] = "Index";
+}
+<!-- Modal Start -->
+<div class="modal fade" id="modalAddToCartSuccess" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Thông báo</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                Thêm vào giỏ hàng thành công
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal End -->
+<div class="container-fluid py-5">
+    <div class="container py-5">
+        <h1 class="mb-4">Danh sách sản phẩm</h1>
+        <div class="row g-4">
+            <div class="col-lg-12">
+                <div class="row g-4">
+                    <div class="col-9"></div>
+                    <div class="col-xl-3">
+                        <form asp-controller="Product" asp-action="Index" asp-route-idCategory="@ViewData["IdCategory"]" asp-route-idAuthor="@ViewData["IdAuthor"]">
+                            <div class="bg-light ps-3 py-3 rounded d-flex justify-content-between mb-4">
+                                <label for="dropdown_shop_id">Sắp xếp theo:</label>
+                                <select id="dropdown_shop_id" name="sortOrder" class="border-0 form-select-sm bg-light me-3" onchange="changeDropDown()">
+                                    <option value="">Tất cả</option>
+                                    <option value="price_desc">Giá cao đến thấp</option>
+                                    <option value="price">Giá thấp đến cao</option>
+                                    <option value="rate_desc">Đánh giá</option>
+                                </select>
+                                <input type="hidden" id="sort_value_id" name="sortOrder" />
+                                <input type="hidden" id="sort_column_id" value="@ViewData["SortColumn"]" />
+                                <input type="hidden" name="idCategory" value="@ViewData["IdCategory"]" />
+                                <input type="hidden" name="idAuthor" value="@ViewData["IdAuthor"]" />
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="row g-4">
+                    <div class="col-lg-3">
+                        <div class="row g-4">
+                            <div class="col-lg-12">
+                                @await Component.InvokeAsync("MenuCategory")
+                            </div>
+                            <div class="col-lg-12">
+                                @await Component.InvokeAsync("MenuAuthor")
+                            </div>
+                            <div class="col-lg-12">
+                                @await Component.InvokeAsync("FeaturedProducts", new { limit = 5 })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-9">
+                        <div class="row g-4">
+                            @foreach (var item in Model.Products)
+                            {
+                                <div class="col-md-6 col-lg-6 col-xl-4 mb-4">
+                                    <div class="card product-card h-100">
+                                        <div class="rounded position-relative">
+                                            <a asp-controller="Product" asp-action="Detail" asp-route-id="@item.Id">
+                                                <img src="~/Images/SanPham/@item.Img" class="card-img-top img-fluid w-100 rounded-top" style="aspect-ratio:0.5; object-fit:cover" alt="@item.Img">
+                                            </a>
+                                        </div>
+                                        <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px">
+                                            @item.CategoryTitle
+                                        </div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">@item.Title</h5>
+                                            <p class="card-text">Giá: @item.Price.ToString("#,##0 đồng")</p>
+                                            <a asp-controller="Product" asp-action="Detail" asp-route-id="@item.Id" class="btn btn-primary">
+                                                Xem chi tiết
+                                            </a>
+                                            <button onclick="clickAddToCart(@item.Id)" class="btn border border-secondary rounded-pill px-3 text-primary">
+                                                <i class="fa fa-shopping-bag me-2 text-primary"></i>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                            <div class="col-12">
+                                <div class="pagination d-flex justify-content-center-mt-5">
+                                    @if(Model.CurrentPageIndex > 1){
+                                        <a asp-controller="Product" asp-action="Index"
+                                           asp-route-sortOrder="@ViewData["SortColumn"]"
+                                           asp-route-idCategory="@ViewData["IdCategory"]"
+                                           asp-route-idAuthor="@ViewData["IdAuthor"]"
+                                           asp-route-page="@(Model.CurrentPageIndex - 1)"
+                                           class="rounded">
+                                            &laquo;
+                                        </a>
+                                    }
+                                    @for (int i = 1; i <= Model.PageCount; i++)
+                                    {
+                                        if (i == Model.CurrentPageIndex)
+                                        {
+                                            <a href="#" class="active rounded">@i</a>
+                                        }
+                                        else
+                                        {
+                                            <a asp-controller="Product" asp-action="Index"
+                                               asp-route-sortOrder="@ViewData["SortColumn"]"
+                                               asp-route-idCategory="@ViewData["IdCategory"]"
+                                               asp-route-idAuthor="@ViewData["IdAuthor"]"
+                                               asp-route-page="@i" class="rounded">
+                                                @i
+                                            </a>
+                                        }
+                                    }
+
+                                    @if (Model.CurrentPageIndex != Model.PageCount)
+                                    {
+                                        <a asp-controller="Product" asp-action="Index"
+                                           asp-route-sortOrder="@ViewData["SortColumn"]"
+                                           asp-route-idCategory="@ViewData["IdCategory"]"
+                                           asp-route-idAuthor="@ViewData["IdAuthor"]"
+                                           asp-route-page="@(Model.CurrentPageIndex + 1)"
+                                           class="rounded">
+                                            &raquo;
+                                        </a>
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        // -------- set giá trị đã chọn cho Dropdown -------------------------
+              function changeDropDown() {
+                  valueDropdown = document.getElementById("dropdown_shop_id").value;
+                  document.getElementById("sort_value_id").value = valueDropdown;
+                  document.forms[0].submit();
+              }
+
+        // -------- set giá trị đã chọn cho Dropdown -------------------------
+              function selectElement(id, valueToSelect) {
+                  let element = document.getElementById(id);
+                  element.value = valueToSelect;
+              }
+              const sortColumnValue = document.getElementById("sort_column_id").value
+              selectElement('dropdown_shop_id', sortColumnValue);
+
+        // --------------- AJAX thêm vào giỏ hàng -------------------
+        function clickAddToCart(idProduct) {
+            $.ajax({
+                url: '@Url.Action("AddToCart", "Cart")',
+                data: { id: idProduct },
+                success: function (data) {
+                    //Load lại Cart ViewComponent
+                    $.ajax({
+                        url: '@Url.Action("RefreshCartViewComponent", "Cart")',
+                        success: function (data) {
+                            console.log(data)
+                            $("#cart_view_component").html(data);
+                        },
+                        error: function (xhr, ajaxOptions, thrownError) {
+                            console.log(thrownError)
+                            alert("Error updating Cart ViewComponent.");
+                        }
+                    });
+
+                    // // Hiển thị thông báo thêm thành công
+                    $("#modalAddToCartSuccess").modal('show');
+                },
+                error: function (xhr, ajaxOptions, thrownError) {
+                    //some errror, some show err msg to user and log the error
+                    alert(xhr.responseText);
+                }
+            });
+
+        }
+    </script>
+</div>
+
+<style>
+    .product-card {
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        border-color: black;
+        overflow: hidden;
+    }
+
+        .product-card img {
+            height: 200px;
+            object-fit: cover;
+        }
+
+        .product-card .card-body {
+            text-align: center;
+        }
+
+    .pagination a {
+        margin: 0 5px;
+        padding: 8px 12px;
+        border: 1px solid #ddd;
+        color: #333;
+        text-decoration: none;
+        border-radius: 4px;
+    }
+
+        .pagination a.active {
+            background-color: #007bff;
+            color: white;
+            border: 1px solid #007bff;
+        }
+
+        .pagination a:hover {
+            background-color: #ddd;
+        }
+
+</style>

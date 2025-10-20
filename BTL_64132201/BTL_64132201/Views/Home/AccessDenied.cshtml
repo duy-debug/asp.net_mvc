@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "AccessDenied";
+}
+<div class="access-denied-container">
+    <h1>Truy cập bị tự chối</h1>
+    <p>Bạn không được cấp quyền để truy cập địa chỉ này.</p>
+    <a href="@Url.Action("Index", "Home")" class="btn btn-primary">Quay về trang chủ</a>
+</div>
+
+<style>
+    .access-denied-container {
+        text-align: center;
+        margin-top: 50px;
+    }
+
+        .access-denied-container h1 {
+            font-size: 3rem;
+            color: #ff0000;
+        }
+
+        .access-denied-container p {
+            font-size: 1.5rem;
+            color: #555;
+        }
+
+        .access-denied-container .btn {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 1rem;
+        }
+</style>

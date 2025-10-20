@@ -1,0 +1,19 @@
+﻿@model IEnumerable<BTL_64132201.Models.Product>
+
+<div class="related-products">
+    <h4>Sản phẩm liên quan</h4>
+    <div class="row g-3">
+        @foreach (var product in Model)
+        {
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <div class="border rounded p-3">
+                    <a asp-controller="Product" asp-action="Detail" asp-route-id="@product.Id">
+                        <img src="~/Images/SanPham/@product.Img" class="img-fluid rounded" alt="@product.Title" />
+                    </a>
+                    <h5 class="mt-2">@product.Title</h5>
+                    <p>@product.Price.ToString("#,##0 đồng")</p>
+                </div>
+            </div>
+        }
+    </div>
+</div>

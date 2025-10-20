@@ -1,0 +1,501 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BTL_64132201.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BTL_64132201.400vqnx9lm.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Images\\SanPham\\an-mang-tren-chuyen-tau-toc-hanh-phuong-dong.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\an-mang-tren-chuyen-tau-toc-hanh-phuong-dong.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Images\\SanPham\\an-mang-tren-song-nile.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\an-mang-tren-song-nile.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Images\\SanPham\\de-men-phieu-luu-ky.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\de-men-phieu-luu-ky.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Images\\SanPham\\doi-gio-hu.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\doi-gio-hu.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Images\\SanPham\\kinh-van-hoa.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\kinh-van-hoa.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Images\\SanPham\\mat-biec.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\mat-biec.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Images\\SanPham\\mendel-va-cay-dau-vuon.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\mendel-va-cay-dau-vuon.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Images\\SanPham\\necromancer.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\necromancer.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Images\\SanPham\\never-let-me-go.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\never-let-me-go.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Images\\SanPham\\nha-tho-duc-ba-paris.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\nha-tho-duc-ba-paris.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Images\\SanPham\\nhung-nguoi-khon-kho.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\nhung-nguoi-khon-kho.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Images\\SanPham\\rung-na-uy.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\rung-na-uy.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Images\\SanPham\\sherlock-holmes-nhung-hinh-nhan-nhay-mua.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\sherlock-holmes-nhung-hinh-nhan-nhay-mua.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Images\\SanPham\\su-viet-12-khuc-trang-ca.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\su-viet-12-khuc-trang-ca.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Images\\SanPham\\the-valley-of-fear.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\the-valley-of-fear.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Images\\SanPham\\toi-thay-hoa-vang-tren-co-xanh.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\toi-thay-hoa-vang-tren-co-xanh.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Images\\SanPham\\truyen-kieu.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\truyen-kieu.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Images\\SanPham\\viet-nam-su-luoc.jpg",
+      "PackagePath": "staticwebassets\\Images\\SanPham\\viet-nam-su-luoc.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Template\\about.html",
+      "PackagePath": "staticwebassets\\Template\\about.html"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Template\\blog.html",
+      "PackagePath": "staticwebassets\\Template\\blog.html"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Template\\categories.html",
+      "PackagePath": "staticwebassets\\Template\\categories.html"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Template\\contact.html",
+      "PackagePath": "staticwebassets\\Template\\contact.html"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\Template\\index.html",
+      "PackagePath": "staticwebassets\\Template\\index.html"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\css\\ion.rangeSlider.min.css",
+      "PackagePath": "staticwebassets\\css\\ion.rangeSlider.min.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\fonts\\Helvetica\\Helvetica-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Helvetica\\Helvetica-Bold.ttf"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\fonts\\Helvetica\\Helvetica.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Helvetica\\Helvetica.ttf"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\fonts\\Helvetica\\HelveticaLt.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Helvetica\\HelveticaLt.ttf"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\img\\about-img.png",
+      "PackagePath": "staticwebassets\\img\\about-img.png"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\img\\b1.jpg",
+      "PackagePath": "staticwebassets\\img\\b1.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\img\\b2.jpg",
+      "PackagePath": "staticwebassets\\img\\b2.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\img\\c1.jpg",
+      "PackagePath": "staticwebassets\\img\\c1.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\img\\c2.jpg",
+      "PackagePath": "staticwebassets\\img\\c2.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\img\\c3.jpg",
+      "PackagePath": "staticwebassets\\img\\c3.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\img\\cat1.png",
+      "PackagePath": "staticwebassets\\img\\cat1.png"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\img\\cat2.png",
+      "PackagePath": "staticwebassets\\img\\cat2.png"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\img\\cat3.png",
+      "PackagePath": "staticwebassets\\img\\cat3.png"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\img\\cat4.png",
+      "PackagePath": "staticwebassets\\img\\cat4.png"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\img\\cat5.png",
+      "PackagePath": "staticwebassets\\img\\cat5.png"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\img\\cat6.png",
+      "PackagePath": "staticwebassets\\img\\cat6.png"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\img\\contact-img.jpg",
+      "PackagePath": "staticwebassets\\img\\contact-img.jpg"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\img\\contact-img.png",
+      "PackagePath": "staticwebassets\\img\\contact-img.png"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\img\\logo-store.png",
+      "PackagePath": "staticwebassets\\img\\logo-store.png"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\img\\slider-img.png",
+      "PackagePath": "staticwebassets\\img\\slider-img.png"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\js\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\js\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\BTL_64132201\\BTL_64132201\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BTL_64132201.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BTL_64132201.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BTL_64132201.props",
+      "PackagePath": "build\\BTL_64132201.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BTL_64132201.props",
+      "PackagePath": "buildMultiTargeting\\BTL_64132201.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BTL_64132201.props",
+      "PackagePath": "buildTransitive\\BTL_64132201.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

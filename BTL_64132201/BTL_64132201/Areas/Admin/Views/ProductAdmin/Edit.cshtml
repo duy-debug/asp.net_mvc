@@ -1,0 +1,75 @@
+﻿@model BTL_64132201.Areas.Admin.Models.ProductFormAdmin
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Chỉnh sửa</h1>
+
+<h4>Thông tin cuốn sách</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Id" class="control-label">Mã cuốn sách</label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label">Tên sách</label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Content" class="control-label">Mô tả</label>
+                <input asp-for="Content" class="form-control" />
+                <span asp-validation-for="Content" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Img" class="control-label">Ảnh</label>
+                <input asp-for="Img" class="form-control" style="display:none" />
+                <br>
+                <img src="~/Images/SanPham/@Model.Img" class="img-fluid rounded" alt="Image" width="300" height="300">
+                <input class="form-control" type="file" accept="image/gif, image/jpeg, image/png" name="ImageUpload" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label">Giá tiền</label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Quantity" class="control-label">Số lượng</label>
+                <input asp-for="Quantity" class="form-control" />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Rate" class="control-label">Đánh giá</label>
+                <input asp-for="Rate" class="form-control" />
+                <span asp-validation-for="Rate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Thể loại</label>
+                <select class="form-select" asp-items="@Model.ListCategory" asp-for="IdCategorySelected">
+                </select>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Tác giả</label>
+                <select class="form-select" asp-items="@Model.ListAuthor" asp-for="IdAuthorSelected">
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Cập nhật" class="btn btn-primary my-2" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Quay về trang chủ</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Confirm";
+    Layout = null;
+}
+
+<table >
+    <tr><td colspan="3"><h2>THÔNG TIN SINH VIÊN ĐÃ ĐĂNG KÝ</h2></td></tr>
+    <tr>
+        <td rowspan="6"><img src="@ViewBag.Avatar" alt="Avatar" style="width:120px; height:120px; border-radius: 50%;" /></td>
+        <td><b>Mã số sinh viên</b></td>
+        <td>@ViewBag.EmpID</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>Họ tên</b></td>
+        <td>@ViewBag.Name</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>Ngày sinh</b></td>
+        <td>@ViewBag.BirthOfDate</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>Email</b></td>
+        <td>@ViewBag.Email</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>Mật khẩu</b></td>
+        <td>@ViewBag.Password</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>Đơn vị</b></td>
+        <td>@ViewBag.Department</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+        

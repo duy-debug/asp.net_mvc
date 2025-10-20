@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "PageNotFound";
+}
+<div class="page-not-found-container text-center mt-5">
+    <h1 class="display-4 text-danger">404</h1>
+    <h2 class="text-secondary">Trang không tồn tại</h2>
+    <p class="mt-3">Rất tiếc, trang bạn đang tìm kiếm không tồn tại hoặc đã bị di chuyển.</p>
+    <a asp-controller="Home" asp-action="Index" class="btn btn-primary mt-3">
+        <i class="fa fa-home"></i> Về trang chủ
+    </a>
+</div>
+
+<style>
+    .page-not-found-container {
+        padding: 50px;
+        background-color: #f8f9fa;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .page-not-found-container h1 {
+        font-size: 80px;
+    }
+
+    .page-not-found-container p {
+        font-size: 18px;
+        color: #6c757d;
+    }
+</style>
