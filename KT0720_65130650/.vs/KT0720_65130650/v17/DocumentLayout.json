@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\kt0720_65130650\\kt0720_65130650\\views\\sinhvien0720_65130650\\timkiemnc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|solutionrelative:kt0720_65130650\\views\\sinhvien0720_65130650\\timkiemnc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\kt0720_65130650\\views\\sinhvien0720_65130650\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|solutionrelative:kt0720_65130650\\views\\sinhvien0720_65130650\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\kt0720_65130650\\controllers\\sinhvien0720_65130650controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|solutionrelative:kt0720_65130650\\controllers\\sinhvien0720_65130650controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\kt0720_65130650\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|solutionrelative:kt0720_65130650\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\kt0720_65130650\\kt0720_65130650\\views\\sinhvien0720_65130650\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|solutionrelative:kt0720_65130650\\views\\sinhvien0720_65130650\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\kt0720_65130650\\kt0720_65130650\\views\\sinhvien0720_65130650\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|solutionrelative:kt0720_65130650\\views\\sinhvien0720_65130650\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\kt0720_65130650\\kt0720_65130650\\views\\sinhvien0720_65130650\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|solutionrelative:kt0720_65130650\\views\\sinhvien0720_65130650\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\kt0720_65130650\\kt0720_65130650\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|solutionrelative:kt0720_65130650\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\kt0720_65130650\\views\\sinhvien0720_65130650\\gioithieu_65130650.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|solutionrelative:kt0720_65130650\\views\\sinhvien0720_65130650\\gioithieu_65130650.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\kt0720_65130650\\kt0720_65130650\\views\\sinhvien0720_65130650\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|solutionrelative:kt0720_65130650\\views\\sinhvien0720_65130650\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\kt0720_65130650\\models\\model_65130650.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|solutionrelative:kt0720_65130650\\models\\model_65130650.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\kt0720_65130650\\kt0720_65130650\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|solutionrelative:kt0720_65130650\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\kt0720_65130650\\content\\styleadmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{738AE812-E33E-483F-B14A-054ECB9BC16A}|KT0720_65130650\\KT0720_65130650.csproj|solutionrelative:kt0720_65130650\\content\\styleadmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimKiemNC.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Views\\SinhVien0720_65130650\\TimKiemNC.cshtml",
+              "RelativeDocumentMoniker": "KT0720_65130650\\Views\\SinhVien0720_65130650\\TimKiemNC.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Views\\SinhVien0720_65130650\\TimKiemNC.cshtml",
+              "RelativeToolTip": "KT0720_65130650\\Views\\SinhVien0720_65130650\\TimKiemNC.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T07:55:41.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "KT0720_65130650\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "KT0720_65130650\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T06:55:53.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Views\\SinhVien0720_65130650\\Details.cshtml",
+              "RelativeDocumentMoniker": "KT0720_65130650\\Views\\SinhVien0720_65130650\\Details.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Views\\SinhVien0720_65130650\\Details.cshtml",
+              "RelativeToolTip": "KT0720_65130650\\Views\\SinhVien0720_65130650\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T06:54:17.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Views\\SinhVien0720_65130650\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KT0720_65130650\\Views\\SinhVien0720_65130650\\Edit.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Views\\SinhVien0720_65130650\\Edit.cshtml",
+              "RelativeToolTip": "KT0720_65130650\\Views\\SinhVien0720_65130650\\Edit.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T06:54:17.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Views\\SinhVien0720_65130650\\Create.cshtml",
+              "RelativeDocumentMoniker": "KT0720_65130650\\Views\\SinhVien0720_65130650\\Create.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Views\\SinhVien0720_65130650\\Create.cshtml",
+              "RelativeToolTip": "KT0720_65130650\\Views\\SinhVien0720_65130650\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T06:00:49.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Views\\SinhVien0720_65130650\\Index.cshtml",
+              "RelativeDocumentMoniker": "KT0720_65130650\\Views\\SinhVien0720_65130650\\Index.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Views\\SinhVien0720_65130650\\Index.cshtml",
+              "RelativeToolTip": "KT0720_65130650\\Views\\SinhVien0720_65130650\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T05:45:29.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "KT0720_65130650\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "KT0720_65130650\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T05:42:56.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinhVien0720_65130650Controller.cs",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Controllers\\SinhVien0720_65130650Controller.cs",
+              "RelativeDocumentMoniker": "KT0720_65130650\\Controllers\\SinhVien0720_65130650Controller.cs",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Controllers\\SinhVien0720_65130650Controller.cs",
+              "RelativeToolTip": "KT0720_65130650\\Controllers\\SinhVien0720_65130650Controller.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAUwJYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T05:45:19.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GioiThieu_65130650.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Views\\SinhVien0720_65130650\\GioiThieu_65130650.cshtml",
+              "RelativeDocumentMoniker": "KT0720_65130650\\Views\\SinhVien0720_65130650\\GioiThieu_65130650.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Views\\SinhVien0720_65130650\\GioiThieu_65130650.cshtml",
+              "RelativeToolTip": "KT0720_65130650\\Views\\SinhVien0720_65130650\\GioiThieu_65130650.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T05:47:58.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Views\\SinhVien0720_65130650\\Delete.cshtml",
+              "RelativeDocumentMoniker": "KT0720_65130650\\Views\\SinhVien0720_65130650\\Delete.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Views\\SinhVien0720_65130650\\Delete.cshtml",
+              "RelativeToolTip": "KT0720_65130650\\Views\\SinhVien0720_65130650\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T06:54:20.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model_65130650.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Models\\Model_65130650.edmx",
+              "RelativeDocumentMoniker": "KT0720_65130650\\Models\\Model_65130650.edmx",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Models\\Model_65130650.edmx [Diagram1]",
+              "RelativeToolTip": "KT0720_65130650\\Models\\Model_65130650.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-10-31T05:39:28.539Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KT0720_65130650\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KT0720_65130650\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:01:11.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StyleAdmin.css",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Content\\StyleAdmin.css",
+              "RelativeDocumentMoniker": "KT0720_65130650\\Content\\StyleAdmin.css",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\KT0720_65130650\\KT0720_65130650\\Content\\StyleAdmin.css",
+              "RelativeToolTip": "KT0720_65130650\\Content\\StyleAdmin.css",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-31T05:43:55.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

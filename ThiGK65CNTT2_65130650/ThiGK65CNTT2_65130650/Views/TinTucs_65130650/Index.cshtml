@@ -1,0 +1,56 @@
+﻿@model IEnumerable<ThiGK65CNTT2_65130650.Models.TinTuc>
+
+@{
+    ViewBag.Title = "Danh sách tin tức";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    int stt = 1; // Biến đếm số thứ tự
+}
+
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>STT</th>
+            <th>Mã tin tức</th>
+            <th>Tiêu đề</th>
+            <th>Ngôn ngữ</th>
+            <th>Ngày đăng</th>
+            <th>Người đăng</th>
+            <th>Ảnh đại diện</th>
+            <th>Loại tin tức</th>
+            <th>Ghi chú</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@stt</td>
+                <td>@Html.DisplayFor(modelItem => item.MaTT)</td>
+                <td>@Html.DisplayFor(modelItem => item.TieuDe)</td>
+                <td>
+                    @(item.NgonNgu.GetValueOrDefault() ? "Tiếng Anh" : "Tiếng Việt")
+                </td>
+                <td>@Html.DisplayFor(modelItem => item.NgayDang)</td>
+                <td>@Html.DisplayFor(modelItem => item.NguoiDang)</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.AnhDaiDien))
+                    {
+                        <img src="@Url.Content(item.AnhDaiDien)" alt="Ảnh" width="80" height="60" />
+                    }
+                    else
+                    {
+                        <span>Không có</span>
+                    }
+                </td>
+                <td>@Html.DisplayFor(modelItem => item.LoaiTinTuc.TenLTT)</td>
+                <td>@Html.DisplayFor(modelItem => item.GhiChu)</td>
+                <td>
+                    @Html.ActionLink("Xem chi tiết", "Details", new { id = item.MaTT }, new { @class = "btn btn-info btn-sm" })
+                </td>
+            </tr>
+            stt++; // tăng số thứ tự
+        }
+    </tbody>
+</table>

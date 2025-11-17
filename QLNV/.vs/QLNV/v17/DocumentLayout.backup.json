@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\qlnv\\qlnv\\views\\phongbans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\phongbans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\qlnv\\views\\nhanviens\\timkiemnc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\nhanviens\\timkiemnc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\qlnv\\qlnv\\views\\phongbans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\phongbans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\qlnv\\qlnv\\views\\nhanviens\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -122,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -169,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\PhongBans\\Index.cshtml",
               "RelativeDocumentMoniker": "QLNV\\Views\\PhongBans\\Index.cshtml",
@@ -208,13 +208,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TimKiemNC.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\NhanViens\\TimKiemNC.cshtml",
               "RelativeDocumentMoniker": "QLNV\\Views\\NhanViens\\TimKiemNC.cshtml",
               "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\NhanViens\\TimKiemNC.cshtml",
               "RelativeToolTip": "QLNV\\Views\\NhanViens\\TimKiemNC.cshtml",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJYAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAI0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-10T06:56:02.877Z",
               "EditorCaption": ""
@@ -231,6 +231,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-10T06:56:02.301Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
@@ -361,10 +365,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",

@@ -1,0 +1,108 @@
+﻿
+@{
+    ViewBag.Title = "TimKiem";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    int stt = 1;
+}
+<h2 class="text-center mt-3 mb-4">TÌM KIẾM TIN TỨC</h2>
+
+<!-- Form tìm kiếm -->
+<form method="post" action="@Url.Action("TimKiem", "TinTucs_65130650")" class="mb-4">
+    <div class="row mb-3">
+        <div class="col-md-4">
+            <label><b>Tiêu đề:</b></label>
+            <input type="text" name="tieuDe" value="@ViewBag.tieuDe" class="form-control" placeholder="Nhập tiêu đề tin tức..." />
+        </div>
+
+        <div class="col-md-4">
+            <label><b>Loại tin tức:</b></label>
+            @Html.DropDownList("tenLTT", (SelectList)ViewBag.tenLTT, "— Chọn loại tin tức —", new { @class = "form-control" })
+        </div>
+
+        <div class="col-md-4 d-flex align-items-end">
+            <button type="submit" class="btn btn-primary me-2">
+                <i class="bi bi-search"></i> Tìm kiếm
+            </button>
+            <a href="@Url.Action("TimKiem", "TinTucs_65130650")" class="btn btn-secondary">
+                <i class="bi bi-arrow-repeat"></i> Làm mới
+            </a>
+        </div>
+    </div>
+</form>
+
+@if (ViewBag.ThongBao != null)
+{
+    <div class="alert alert-warning text-center">@ViewBag.ThongBao</div>
+}
+
+<!-- Bảng danh sách kết quả -->
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>STT</th>
+            <th>Mã tin tức</th>
+            <th>Tiêu đề</th>
+            <th>Ngôn ngữ</th>
+            <th>Ngày đăng</th>
+            <th>Người đăng</th>
+            <th>Ảnh đại diện</th>
+            <th>Loại tin tức</th>
+            <th>Ghi chú</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@stt</td>
+                    <td>@item.MaTT</td>
+                    <td>@item.TieuDe</td>
+                    <td>
+                        @(item.NgonNgu.GetValueOrDefault() ? "Tiếng Anh" : "Tiếng Việt")
+                    </td>
+                    <td>@item.NgayDang?.ToString("dd/MM/yyyy")</td>
+                    <td>@item.NguoiDang</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(item.AnhDaiDien))
+                        {
+                            <img src="@Url.Content(item.AnhDaiDien)" alt="Ảnh" width="80" height="60" />
+                        }
+                        else
+                        {
+                            <span>Không có</span>
+                        }
+                    </td>
+                    <td>@item.LoaiTinTuc?.TenLTT</td>
+                    <td>@item.GhiChu</td>
+                    <td>
+                        @Html.ActionLink("Xem chi tiết", "Details", new { id = item.MaTT }, new { @class = "btn btn-info btn-sm" })
+                    </td>
+                </tr>
+                stt++;
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="10" class="text-center text-muted">Không có dữ liệu hiển thị</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<style>
+    form {
+        background-color: #f8f9fa;
+        padding: 15px;
+        border-radius: 8px;
+    }
+
+    th, td {
+        text-align: center;
+        vertical-align: middle;
+    }
+</style>
+

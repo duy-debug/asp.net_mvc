@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\qlnv\\views\\nhanviens\\timkiemnc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\qlnv\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\qlnv\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\qlnv\\qlnv\\views\\nhanviens\\timkiemnc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\nhanviens\\timkiemnc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\qlnv\\qlnv\\views\\phongbans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\qlnv\\views\\phongbans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\phongbans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\qlnv\\qlnv\\views\\nhanviens\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\qlnv\\views\\nhanviens\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\nhanviens\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -19,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\nhanviens\\printlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\qlnv\\qlnv\\views\\phongbans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\qlnv\\views\\phongbans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\phongbans\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -27,27 +35,27 @@
       "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\qlnv\\qlnv\\views\\phongbans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\qlnv\\views\\phongbans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\phongbans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\qlnv\\qlnv\\views\\phongbans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\qlnv\\views\\phongbans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\phongbans\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\qlnv\\qlnv\\views\\phongbans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\qlnv\\views\\phongbans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\phongbans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\qlnv\\qlnv\\controllers\\phongbanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\qlnv\\controllers\\phongbanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\controllers\\phongbanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\qlnv\\qlnv\\views\\gioithieu\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\qlnv\\views\\gioithieu\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\gioithieu\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\qlnv\\qlnv\\controllers\\gioithieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\qlnv\\controllers\\gioithieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\controllers\\gioithieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -55,16 +63,8 @@
       "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\qlnv\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\qlnv\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\qlnv\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\qlnv\\views\\nhanviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -122,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,20 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\PhongBans\\Create.cshtml",
-              "RelativeDocumentMoniker": "QLNV\\Views\\PhongBans\\Create.cshtml",
-              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\PhongBans\\Create.cshtml",
-              "RelativeToolTip": "QLNV\\Views\\PhongBans\\Create.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T06:11:10.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\PhongBans\\Delete.cshtml",
               "RelativeDocumentMoniker": "QLNV\\Views\\PhongBans\\Delete.cshtml",
@@ -151,12 +138,11 @@
               "RelativeToolTip": "QLNV\\Views\\PhongBans\\Delete.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T06:10:59.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T06:10:59.603Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\PhongBans\\Edit.cshtml",
               "RelativeDocumentMoniker": "QLNV\\Views\\PhongBans\\Edit.cshtml",
@@ -164,12 +150,11 @@
               "RelativeToolTip": "QLNV\\Views\\PhongBans\\Edit.cshtml",
               "ViewState": "AgIAAAcAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T06:10:37.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T06:10:37.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\PhongBans\\Index.cshtml",
               "RelativeDocumentMoniker": "QLNV\\Views\\PhongBans\\Index.cshtml",
@@ -177,12 +162,11 @@
               "RelativeToolTip": "QLNV\\Views\\PhongBans\\Index.cshtml",
               "ViewState": "AgIAABQAAAAAAAAAAAAowCQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T06:10:28.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T06:10:28.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TimKiem.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\NhanViens\\TimKiem.cshtml",
               "RelativeDocumentMoniker": "QLNV\\Views\\NhanViens\\TimKiem.cshtml",
@@ -190,12 +174,11 @@
               "RelativeToolTip": "QLNV\\Views\\NhanViens\\TimKiem.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-10T07:09:19.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T07:09:19.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "_LayoutAdmin.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeDocumentMoniker": "QLNV\\Views\\Shared\\_LayoutAdmin.cshtml",
@@ -203,12 +186,11 @@
               "RelativeToolTip": "QLNV\\Views\\Shared\\_LayoutAdmin.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAowB8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-10T06:58:30.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T06:58:30.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TimKiemNC.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\NhanViens\\TimKiemNC.cshtml",
               "RelativeDocumentMoniker": "QLNV\\Views\\NhanViens\\TimKiemNC.cshtml",
@@ -221,7 +203,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\NhanViens\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLNV\\Views\\NhanViens\\Index.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\NhanViens\\Index.cshtml",
+              "RelativeToolTip": "QLNV\\Views\\NhanViens\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T13:23:05.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\NhanViens\\Create.cshtml",
+              "RelativeDocumentMoniker": "QLNV\\Views\\NhanViens\\Create.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\NhanViens\\Create.cshtml",
+              "RelativeToolTip": "QLNV\\Views\\NhanViens\\Create.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowEcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T13:15:39.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\PhongBans\\Create.cshtml",
+              "RelativeDocumentMoniker": "QLNV\\Views\\PhongBans\\Create.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\PhongBans\\Create.cshtml",
+              "RelativeToolTip": "QLNV\\Views\\PhongBans\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T06:11:10.052Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PrintList.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\NhanViens\\PrintList.cshtml",
               "RelativeDocumentMoniker": "QLNV\\Views\\NhanViens\\PrintList.cshtml",
@@ -229,16 +265,11 @@
               "RelativeToolTip": "QLNV\\Views\\NhanViens\\PrintList.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-10T06:56:02.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2025-10-10T06:56:02.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\PhongBans\\Details.cshtml",
               "RelativeDocumentMoniker": "QLNV\\Views\\PhongBans\\Details.cshtml",
@@ -246,12 +277,11 @@
               "RelativeToolTip": "QLNV\\Views\\PhongBans\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T06:10:48.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T06:10:48.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "PhongBansController.cs",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Controllers\\PhongBansController.cs",
               "RelativeDocumentMoniker": "QLNV\\Controllers\\PhongBansController.cs",
@@ -259,12 +289,11 @@
               "RelativeToolTip": "QLNV\\Controllers\\PhongBansController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T06:09:03.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T06:09:03.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "GioiThieu.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\GioiThieu\\GioiThieu.cshtml",
               "RelativeDocumentMoniker": "QLNV\\Views\\GioiThieu\\GioiThieu.cshtml",
@@ -272,12 +301,11 @@
               "RelativeToolTip": "QLNV\\Views\\GioiThieu\\GioiThieu.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T06:07:07.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T06:07:07.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "GioiThieuController.cs",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Controllers\\GioiThieuController.cs",
               "RelativeDocumentMoniker": "QLNV\\Controllers\\GioiThieuController.cs",
@@ -285,12 +313,11 @@
               "RelativeToolTip": "QLNV\\Controllers\\GioiThieuController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T06:05:24.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T06:05:24.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\NhanViens\\Edit.cshtml",
               "RelativeDocumentMoniker": "QLNV\\Views\\NhanViens\\Edit.cshtml",
@@ -314,19 +341,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\NhanViens\\Index.cshtml",
-              "RelativeDocumentMoniker": "QLNV\\Views\\NhanViens\\Index.cshtml",
-              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\NhanViens\\Index.cshtml",
-              "RelativeToolTip": "QLNV\\Views\\NhanViens\\Index.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowGEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-08T13:23:05.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\NhanViens\\Details.cshtml",
@@ -339,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "NhanViensController.cs",
               "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Controllers\\NhanViensController.cs",
               "RelativeDocumentMoniker": "QLNV\\Controllers\\NhanViensController.cs",
@@ -347,32 +361,7 @@
               "RelativeToolTip": "QLNV\\Controllers\\NhanViensController.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAowNwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T13:23:05.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\NhanViens\\Create.cshtml",
-              "RelativeDocumentMoniker": "QLNV\\Views\\NhanViens\\Create.cshtml",
-              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\QLNV\\QLNV\\Views\\NhanViens\\Create.cshtml",
-              "RelativeToolTip": "QLNV\\Views\\NhanViens\\Create.cshtml",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAowGgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-10T13:15:39.81Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "WhenOpened": "2025-10-08T13:23:05.496Z"
             },
             {
               "$type": "Document",

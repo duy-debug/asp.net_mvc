@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Thi_65130650Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="LoaiTinTuc">
+    <Key>
+      <PropertyRef Name="MaLTT" />
+    </Key>
+    <Property Name="MaLTT" Type="nvarchar" MaxLength="5" Nullable="false" />
+    <Property Name="TenLTT" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TinTuc">
+    <Key>
+      <PropertyRef Name="MaTT" />
+    </Key>
+    <Property Name="MaTT" Type="nvarchar" MaxLength="8" Nullable="false" />
+    <Property Name="TieuDe" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="NgonNgu" Type="bit" />
+    <Property Name="NgayDang" Type="date" />
+    <Property Name="NguoiDang" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="AnhDaiDien" Type="nvarchar" MaxLength="100" />
+    <Property Name="MaLTT" Type="nvarchar" MaxLength="5" Nullable="false" />
+    <Property Name="GhiChu" Type="nvarchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__TinTuc__MaLTT__4CA06362">
+    <End Role="LoaiTinTuc" Type="Self.LoaiTinTuc" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="TinTuc" Type="Self.TinTuc" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LoaiTinTuc">
+        <PropertyRef Name="MaLTT" />
+      </Principal>
+      <Dependent Role="TinTuc">
+        <PropertyRef Name="MaLTT" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="TinTuc_TimKiem" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="TieuDe" Type="nvarchar" Mode="In" />
+    <Parameter Name="TenLTT" Type="nvarchar" Mode="In" />
+  </Function>
+  <EntityContainer Name="Thi_65130650ModelStoreContainer">
+    <EntitySet Name="LoaiTinTuc" EntityType="Self.LoaiTinTuc" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TinTuc" EntityType="Self.TinTuc" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__TinTuc__MaLTT__4CA06362" Association="Self.FK__TinTuc__MaLTT__4CA06362">
+      <End Role="LoaiTinTuc" EntitySet="LoaiTinTuc" />
+      <End Role="TinTuc" EntitySet="TinTuc" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\thigk65cntt2_65130650\\thigk65cntt2_65130650\\views\\tintucs_65130650\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|solutionrelative:thigk65cntt2_65130650\\views\\tintucs_65130650\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\thigk65cntt2_65130650\\thigk65cntt2_65130650\\views\\tintucs_65130650\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|solutionrelative:thigk65cntt2_65130650\\views\\tintucs_65130650\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\thigk65cntt2_65130650\\thigk65cntt2_65130650\\views\\tintucs_65130650\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|solutionrelative:thigk65cntt2_65130650\\views\\tintucs_65130650\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\thigk65cntt2_65130650\\thigk65cntt2_65130650\\views\\tintucs_65130650\\gioithieu_65130650.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|solutionrelative:thigk65cntt2_65130650\\views\\tintucs_65130650\\gioithieu_65130650.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\thigk65cntt2_65130650\\thigk65cntt2_65130650\\views\\tintucs_65130650\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|solutionrelative:thigk65cntt2_65130650\\views\\tintucs_65130650\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\thigk65cntt2_65130650\\thigk65cntt2_65130650\\controllers\\tintucs_65130650controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|solutionrelative:thigk65cntt2_65130650\\controllers\\tintucs_65130650controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\thigk65cntt2_65130650\\thigk65cntt2_65130650\\views\\tintucs_65130650\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|solutionrelative:thigk65cntt2_65130650\\views\\tintucs_65130650\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\thigk65cntt2_65130650\\thigk65cntt2_65130650\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|solutionrelative:thigk65cntt2_65130650\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\thigk65cntt2_65130650\\thigk65cntt2_65130650\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|solutionrelative:thigk65cntt2_65130650\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\thigk65cntt2_65130650\\thigk65cntt2_65130650\\views\\tintucs_65130650\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|solutionrelative:thigk65cntt2_65130650\\views\\tintucs_65130650\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\thigk65cntt2_65130650\\thigk65cntt2_65130650\\content\\styleadmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|solutionrelative:thigk65cntt2_65130650\\content\\styleadmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\thigk65cntt2_65130650\\thigk65cntt2_65130650\\models\\modelgk65cntt2_65130650.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7857137E-20A2-440F-BCEA-8E0250BC7BEB}|ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650.csproj|solutionrelative:thigk65cntt2_65130650\\models\\modelgk65cntt2_65130650.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimKiem.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\TimKiem.cshtml",
+              "RelativeDocumentMoniker": "ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\TimKiem.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\TimKiem.cshtml",
+              "RelativeToolTip": "ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\TimKiem.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAowEwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T07:28:47.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Index.cshtml",
+              "RelativeDocumentMoniker": "ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Index.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Index.cshtml",
+              "RelativeToolTip": "ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T06:49:03.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gioithieu_65130650.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Gioithieu_65130650.cshtml",
+              "RelativeDocumentMoniker": "ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Gioithieu_65130650.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Gioithieu_65130650.cshtml",
+              "RelativeToolTip": "ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Gioithieu_65130650.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T06:46:43.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TinTucs_65130650Controller.cs",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Controllers\\TinTucs_65130650Controller.cs",
+              "RelativeDocumentMoniker": "ThiGK65CNTT2_65130650\\Controllers\\TinTucs_65130650Controller.cs",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Controllers\\TinTucs_65130650Controller.cs",
+              "RelativeToolTip": "ThiGK65CNTT2_65130650\\Controllers\\TinTucs_65130650Controller.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:42:42.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Details.cshtml",
+              "RelativeDocumentMoniker": "ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Details.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Details.cshtml",
+              "RelativeToolTip": "ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Details.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T07:03:01.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Delete.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Delete.cshtml",
+              "RelativeToolTip": "ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T07:10:43.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Edit.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Edit.cshtml",
+              "RelativeToolTip": "ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T06:49:00.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ThiGK65CNTT2_65130650\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ThiGK65CNTT2_65130650\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:35:52.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "ThiGK65CNTT2_65130650\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "ThiGK65CNTT2_65130650\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T06:41:08.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Create.cshtml",
+              "RelativeDocumentMoniker": "ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Create.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Create.cshtml",
+              "RelativeToolTip": "ThiGK65CNTT2_65130650\\Views\\TinTucs_65130650\\Create.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T06:49:30.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StyleAdmin.css",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Content\\StyleAdmin.css",
+              "RelativeDocumentMoniker": "ThiGK65CNTT2_65130650\\Content\\StyleAdmin.css",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Content\\StyleAdmin.css",
+              "RelativeToolTip": "ThiGK65CNTT2_65130650\\Content\\StyleAdmin.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-31T06:41:39.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModelGK65CNTT2_65130650.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Models\\ModelGK65CNTT2_65130650.edmx",
+              "RelativeDocumentMoniker": "ThiGK65CNTT2_65130650\\Models\\ModelGK65CNTT2_65130650.edmx",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\ThiGK65CNTT2_65130650\\ThiGK65CNTT2_65130650\\Models\\ModelGK65CNTT2_65130650.edmx [Diagram1]",
+              "RelativeToolTip": "ThiGK65CNTT2_65130650\\Models\\ModelGK65CNTT2_65130650.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-10-31T06:39:45.442Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
