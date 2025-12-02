@@ -1,0 +1,46 @@
+﻿@model WebApplication1.Models.user
+@{
+    ViewBag.Title = "Sửa thông tin người dùng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-4">
+    <h2>Sửa thông tin người dùng</h2>
+
+    @if (ViewBag.Error != null)
+    {
+        <div class="alert alert-danger" role="alert">
+            @ViewBag.Error
+        </div>
+    }
+
+    @using (Html.BeginForm("EditUser", "Admin", new { area = "Admin" }, FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        <input type="hidden" name="id" value="@Model.id" />
+
+        <div class="mb-3">
+            <label for="username" class="form-label">Tên đăng nhập</label>
+            <input type="text" class="form-control" id="username" name="username" value="@Model.username" required>
+        </div>
+
+        <div class="mb-3">
+            <label for="password" class="form-label">Mật khẩu mới (để trống nếu không đổi)</label>
+            <input type="password" class="form-control" id="password" name="password">
+        </div>
+
+        <div class="mb-3">
+            <label for="role" class="form-label">Vai trò</label>
+            <select class="form-control" id="role" name="role" required>
+                <option value="User" @(Model.Role == "User" ? "selected" : "")>User</option>
+                <option value="Admin" @(Model.Role == "Admin" ? "selected" : "")>Admin</option>
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <button type="submit" class="btn btn-warning">Cập nhật</button>
+            <a href="@Url.Action("Users", "Admin", new { area = "Admin" })" class="btn btn-secondary">Hủy</a>
+        </div>
+    }
+</div>
+

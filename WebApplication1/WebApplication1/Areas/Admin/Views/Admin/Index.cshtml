@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Trang quản trị";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-4">
+    <h2>Trang quản trị</h2>
+    <p class="text-muted">Xin chào, <strong>@ViewBag.Username</strong>!</p>
+
+    <div class="row mt-4">
+        <div class="col-md-4">
+            <div class="card text-white bg-primary mb-3">
+                <div class="card-header">Tổng số người dùng</div>
+                <div class="card-body">
+                    <h1 class="card-title">@ViewBag.TotalUsers</h1>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-white bg-success mb-3">
+                <div class="card-header">Quản trị viên</div>
+                <div class="card-body">
+                    <h1 class="card-title">@ViewBag.TotalAdmins</h1>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-white bg-info mb-3">
+                <div class="card-header">Người dùng thường</div>
+                <div class="card-body">
+                    <h1 class="card-title">@ViewBag.TotalRegularUsers</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="mt-4">
+        <a href="@Url.Action("Users", "Admin", new { area = "Admin" })" class="btn btn-primary">Quản lý người dùng</a>
+        <a href="@Url.Action("CreateUser", "Admin", new { area = "Admin" })" class="btn btn-success">Thêm người dùng mới</a>
+        <a href="@Url.Action("Logout", "Account", new { area = "" })" class="btn btn-danger">Đăng xuất</a>
+    </div>
+</div>
+

@@ -1,0 +1,36 @@
+﻿@model WebApplication1.Models.user
+@{
+    ViewBag.Title = "Trang người dùng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-4">
+    <h2>Trang người dùng</h2>
+    <p class="text-muted">Xin chào, <strong>@ViewBag.Username</strong>!</p>
+
+    <div class="card mt-4">
+        <div class="card-header bg-primary text-white">
+            <h5 class="mb-0">Thông tin tài khoản</h5>
+        </div>
+        <div class="card-body">
+            <p><strong>Tên đăng nhập:</strong> @Model.username</p>
+            <p><strong>Vai trò:</strong> 
+                @if (Model.Role == "Admin")
+                {
+                    <span class="badge bg-danger">@Model.Role</span>
+                }
+                else
+                {
+                    <span class="badge bg-primary">@Model.Role</span>
+                }
+            </p>
+        </div>
+    </div>
+
+    <div class="mt-4">
+        <a href="@Url.Action("Profile", "User", new { area = "User" })" class="btn btn-info">Xem hồ sơ</a>
+        <a href="@Url.Action("ChangePassword", "User", new { area = "User" })" class="btn btn-warning">Đổi mật khẩu</a>
+        <a href="@Url.Action("Logout", "Account", new { area = "" })" class="btn btn-danger">Đăng xuất</a>
+    </div>
+</div>
+

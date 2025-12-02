@@ -1,0 +1,366 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|d:\\ntu\\academicyear_2025_2026\\semester1\\web_application_development\\webapplication1\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\areas\\admin\\views\\admin\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\admin\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\areas\\admin\\views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\areas\\admin\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\areas\\user\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\user\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\areas\\user\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\user\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\areas\\admin\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\areas\\user\\views\\user\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\user\\views\\user\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\areas\\user\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\user\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\webapplication1\\areas\\user\\userarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC281551-E3B9-4D4A-B107-793F5F203E26}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\user\\userarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Admin\\Users.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Admin\\Users.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Admin\\Users.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Admin\\Users.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T12:04:34.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteUser.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Admin\\DeleteUser.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Admin\\DeleteUser.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Admin\\DeleteUser.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Admin\\DeleteUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T12:05:26.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAiwHUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:48:52.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T12:02:51.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T12:01:17.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T12:03:32.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "user.cs",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Models\\user.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\user.cs",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Models\\user.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:48:09.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDBContext.cs",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Models\\UserDBContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\UserDBContext.cs",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Models\\UserDBContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\UserDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:48:03.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T12:04:04.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\User\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\User\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\User\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\User\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T12:05:49.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Admin\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Admin\\CreateUser.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Admin\\CreateUser.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Admin\\CreateUser.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T12:04:48.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\User\\Views\\User\\Profile.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\User\\Views\\User\\Profile.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\User\\Views\\User\\Profile.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\User\\Views\\User\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T12:06:03.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:48:25.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T12:08:06.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T12:16:04.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Admin\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Admin\\EditUser.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Admin\\EditUser.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Admin\\EditUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T12:05:05.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\User\\Views\\User\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\User\\Views\\User\\ChangePassword.cshtml",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\User\\Views\\User\\ChangePassword.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\User\\Views\\User\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T12:06:13.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\User\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\User\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\User\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\User\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:54:58.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:41:30.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAwwIMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:54:30.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserAreaRegistration.cs",
+              "DocumentMoniker": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\User\\UserAreaRegistration.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\User\\UserAreaRegistration.cs",
+              "ToolTip": "D:\\NTU\\AcademicYear_2025_2026\\Semester1\\Web_application_development\\WebApplication1\\WebApplication1\\Areas\\User\\UserAreaRegistration.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\User\\UserAreaRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T11:42:00.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

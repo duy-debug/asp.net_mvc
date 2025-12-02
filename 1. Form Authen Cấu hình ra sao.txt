@@ -1,0 +1,15 @@
+1. Form Authen? Cấu hình ra sao?
+2. Account Controller (ĐN, ĐK)
+3. Areas? Phân quyền?
+
+namespace Project_64132989.Areas.Admin.Controllers
+{
+    [Authorize(Roles = "Admin")]
+    public class Admin64132989Controller : Controller
+    {
+        private readonly Model64132989DbContext _context = new Model64132989DbContext();
+
+        public ActionResult Index()
+        {
+            return View();
+        }
